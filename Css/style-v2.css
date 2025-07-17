@@ -9,7 +9,7 @@ html {
   scroll-behavior: smooth;
 }
 .encabezado {
-    background-image: url('/Css/Imagenesstyle/white-background.jpg');
+    background-image: url('Css/Imagenesstyle/white-background.jpg');
     background-size: cover;
     background-position: center;
     box-shadow: 0 10px 20px rgba(0, 0, 0, 0.5);
